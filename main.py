@@ -7,7 +7,7 @@ from random import choice
 import pygame  # For playing song
 import os
 
-song_folder = r"F:\PRAKHAR\songs" #Configure according to your project
+song_folder = r"F:\PRAKHAR\songs" #Configure according to your songs folder
 wakeword = "arthur"
 predictor = Predictor()
 with open("data/responses.json") as f:
