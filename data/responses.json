@@ -1,0 +1,45 @@
+{
+    "responses": {
+        "wakeup": [
+            "\nhi, what can i do for you?",
+            "\ni am listening",
+            "\nyes, please tell me what you want"],
+
+        "wolfram": ["searching", "finding results", "just a second", "one minute"],
+        "wikipedia": ["finding about them", "searching", "finding some information"],
+        "maps": ["getting maps", "showing the map to you", "searching on the globe"],
+        "weather": [
+            "getting weather information for city",
+            "finding the weather in city",
+            "just a second",
+            "one minute"],
+        "news": [
+            "fetching the latest news",
+            "finding results",
+            "searching the web",
+            "on your order"],
+        "website": ["opening", "getting it to you"],
+        "greeting": ["hello", "hi, how can i help you?", "what can i do for you?"],
+        "timegreeting": [],
+        "song": ["playing a song", "okay"],
+        "shut_down": [
+            "okay, the system will shutdown in a few seconds",
+            "fine, your p c will shutdown in a few seconds"],
+        "time": [],
+        "joke": [
+            "here is a funny one",
+            "fetching the funniest one",
+            "i will try my best to make you laugh"],
+        "health": [
+            "i am fine, thanks for asking",
+            "I am all right",
+            "fine, you are very kind to ask"],
+        "break": [
+            "okay, you can call me anytime",
+            "okay, i would be waiting to  help you"],
+        "thank": [
+            "you are welcome",
+            "it is nice to hear that from you",
+            "it is my work!"]
+    }
+}

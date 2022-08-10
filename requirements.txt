@@ -1,0 +1,12 @@
+scikit-learn
+pandas
+numpy
+nltk
+wikipedia
+google
+requests
+newsapi-python
+pygame
+pyautogui
+pyttsx3
+SpeechRecognition

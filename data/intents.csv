@@ -1,0 +1,111 @@
+intent,response
+who is your creator,about_us
+by whom are you developed,about_us
+who made you,about_us
+who has made you,about_us
+who are you,about_me
+what is your name,about_me
+what are you,about_me
+what can you do,functions
+what can you do for me,functions
+what are your functions,functions
+how can you help me,functions
+tell me your functions,functions
+kill yourself,kill
+stop listening to me,kill
+terminate yourself,kill
+do not listen me,kill
+stop yourself,kill
+what is the answer of x+2=7,wolfram
+solve x+2=0,wolfram
+what is the answer of 72+236,wolfram
+find out the solution of 7+32,wolfram
+find nutrition facts of papaya,wolfram
+how much energy does an apple gives,wolfram
+how much fat is in a burger,wolfram
+how many calories are their in apple,wolfram
+translate friend in dutch,wolfram
+what would you say apple in french,wolfram
+how would you say clown in portuguese,wolfram
+how to say bye in german,wolfram
+translate hello in spanish,wolfram
+define plagiarism,wolfram
+what is the meaning of philanthropist,wolfram
+can you define mother,wolfram
+can you give me the defintion of boating,wolfram
+what is the definition of alignment,wolfram
+find out something about Bill Clinton,wikipedia
+who is cody andersan,wikipedia
+can you find who is madhuri,wikipedia
+can you tell me who is joe biden,wikipedia
+find on wikipedia about salman khan,wikipedia
+who is Amitabh,wikipedia
+where is nepal,maps
+where is india,maps
+find out on map where is afghanistan,maps
+where on globe is california,maps
+give me directions for white house,maps
+where on earth is delhi,maps
+how is the weather,weather
+find weather,weather
+what is the weather like,weather
+how is the climate here,weather
+do i need umbrella today,weather
+is it hot today,weather
+is it cold today,weather
+should I wear warm clothes today,weather
+do you know how is the weather outside,weather
+weather,weather
+play the news,news
+find out the news,news
+is there a news,news
+find out some news,news
+find out news in lucknow,news
+open facebook,website
+launch whatsapp,website
+please open realpython website,website
+wikipedia website,website
+can you open instagram website,website
+go to twitter,website
+good morning,timegreeting
+good afternoon,timegreeting
+good evening,timegreeting
+good night,timegreeting
+goodmorning,timegreeting
+goodafternoon,timegreeting
+goodevening,timegreeting
+goodnight,timegreeting
+play a song,song
+play music,song
+play some music,song
+play a song randomly,song
+shut down the system,shut_down
+shut down the pc,shut_down
+power off pc,shut_down
+power off computer,shut_down
+tell me the time,time
+tell the current time,time
+what is the time,time
+what time now,time
+tell me a joke,joke
+make me laugh,joke
+can you make me laugh,joke
+do you know a joke,joke
+can you tell a joke,joke
+how are you,health
+are you fine,health
+how are you feeling,health
+are you fine,health
+are you okay,health
+thanks,thank
+thank you arthur,thank
+thank for helping me,thank
+take a screenshot,screenshot
+capture the screen,screenshot
+can you take screenshot,screenshot
+please capture the screen,screenshot
+type something here,type
+write down what i say,type
+can you type what i say,type
+write something,type
+type what i say,type
