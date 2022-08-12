@@ -19,6 +19,8 @@ from time import sleep
 import pygame #For playing songs
 import os
 from sys import exit
+from re import sub # to remove text in brackets in wiki summary
+
 
 pygame.init()
 pygame.mixer.init()
@@ -150,6 +152,7 @@ class brain:
             summary = wikipedia.summary(e.options[0], sentences=1)
         except:
             summary = self.answer(term)
+        sub(r"[\(\[].*?[\)\]]", "", summary)
         return summary
 
     def get_maps(self, query):
