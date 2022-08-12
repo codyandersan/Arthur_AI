@@ -1,9 +1,9 @@
 print("Getting Assistant Ready.....\n")
 
-import backend.Brain
+import Brain
 from json import load, loads
-import backend.sensors
-from backend.prediction import Predictor
+import sensors
+from prediction import Predictor
 from random import choice
 import pygame  # For playing song
 import os
@@ -11,7 +11,7 @@ import os
 song_folder = r"F:\PRAKHAR\songs" #Configure according to your songs folder
 wakeword = "arthur"
 predictor = Predictor()
-with open("backend/data/responses.json") as f:
+with open("data/responses.json") as f:
     response = loads(f.read())
 brain = Brain.brain()
 sense = sensors.Sensors()
