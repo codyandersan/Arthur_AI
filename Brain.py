@@ -152,7 +152,7 @@ class brain:
             summary = wikipedia.summary(e.options[0], sentences=1)
         except:
             summary = self.answer(term)
-        sub(r"[\(\[].*?[\)\]]", "", summary)
+        summary = sub(r"[\(\[].*?[\)\]]", "", summary)
         return summary
 
     def get_maps(self, query):
@@ -172,7 +172,10 @@ class brain:
 
     def find_weather(self, city):
         dict = weather.get_weather(city, "1")
-        return dict
+        if dict:
+            return dict
+        else:
+            return f"Can't find weather of {city}! Try Again."
 
     def find_news(self):
         return_dict = []
