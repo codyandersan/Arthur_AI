@@ -1,5 +1,7 @@
 # Arthur AI
 
+> I built this when I was 13. I self-taught the NLTK data processing and the core system architecture, but treated the scikit-learn Naive Bayes classifier (in prediction.py) as a blackbox abstraction since I hadn't yet studied the underlying mathematics.
+
 A voice-activated personal assistant for Windows, built in Python. Arthur listens for a wake word, recognises your spoken command, classifies the intent using a trained Naive Bayes model, and responds with both text output and synthesized speech.
 
 ---
@@ -57,7 +59,7 @@ Arthur_AI/
 ## Requirements
 
 - **Python 3.x**
-- **Windows** (recommended — voice engine uses Windows SAPI voices; some paths are Windows-specific)
+- **Windows** (recommended as voice engine uses Windows SAPI voices; some paths are Windows-specific)
 - A working microphone
 - Internet connection (for STT, WolframAlpha, Wikipedia, Weather, News, Maps)
 
